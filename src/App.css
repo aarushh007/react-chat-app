@@ -70,6 +70,9 @@ form {
   padding-top: px;
   padding-bottom: 0;
 }
+.msg {
+  padding: 2px;
+}
 .darkk {
   background-color: rgb(37, 37, 37);
 }
